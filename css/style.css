@@ -1,0 +1,19 @@
+.c_box{
+
+}
+.box{
+	width: 200px;
+    min-height: 100px;
+    background-color: #dedede;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+h2{
+	margin-top: 50px;
+	margin-bottom: 20px;
+    text-align: center;
+}
+.img{
+    width: 287px;
+    height: 279px;
+}
